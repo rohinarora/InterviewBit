@@ -16,12 +16,11 @@
     * Call by reference saves memory usage.
   * array_pointer.md
   * 6.jpg
-  * Arrays as function arguments (7.cpp)
+  * 7.cpp. Arrays as function arguments
+  * 8.cpp. ways to create char arrays
   * Strings in C++ are just arrays of characters, or Character Arrays
-    * Character Arrays    
-      size of array >= number of chars in array +1. We need to store null char at end of string to denote the string ends. Strings must be null terminated.
-    * 8.cpp
+    * size of array >= number of chars in array +1. We need to store null char at end of string to denote the string ends. Strings must be null terminated.
     * char c[4]- Character Arrays. And c- string
-    * 8.jpg
-    * 9.cpp
-    * 10.cpp
+  * 8.jpg. ways to create char arrays
+  * 9.cpp. printing char arrays
+  * 10.cpp. some property of char array
