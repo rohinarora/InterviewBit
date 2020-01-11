@@ -14,7 +14,7 @@
   * 4.cpp. pointer to pointer
   * 5.cpp (Use of pointers- As function arguments. Call by reference. Examples- swap and increment)
     * Call by reference saves memory usage.
-  * array_pointer.md
+  * 6.md array_pointer
   * 6.jpg
   * 7.cpp. Arrays as function arguments
   * 8.cpp. ways to create char arrays
@@ -25,3 +25,4 @@
   * 9.cpp. printing char arrays
   * 10.cpp. some property of char array
   * 10.jpg. Notice the variable c in 2 different functions. It has different sizes
+  * 11.md Pointers and 2-D arrays, multidim arrays
