@@ -13,4 +13,15 @@
   * 3.cpp. void pointer
   * 4.cpp. pointer to pointer
   * 5.cpp (Use of pointers- As function arguments. Call by reference. Examples- swap and increment)
-    * * Call by reference saves memory usage.
+    * Call by reference saves memory usage.
+  * array_pointer.md
+  * 6.jpg
+  * Arrays as function arguments (7.cpp)
+  * Strings in C++ are just arrays of characters, or Character Arrays
+    * Character Arrays    
+      size of array >= number of chars in array +1. We need to store null char at end of string to denote the string ends. Strings must be null terminated.
+    * 8.cpp
+    * char c[4]- Character Arrays. And c- string
+    * 8.jpg
+    * 9.cpp
+    * 10.cpp
