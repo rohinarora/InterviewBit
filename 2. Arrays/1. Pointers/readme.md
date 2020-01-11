@@ -24,3 +24,4 @@
   * 8.jpg. ways to create char arrays
   * 9.cpp. printing char arrays
   * 10.cpp. some property of char array
+  * 10.jpg. Notice the variable c in 2 different functions. It has different sizes

@@ -23,6 +23,7 @@ void print_char2(char* A){
     while (*A!='\0'){
         cout <<*A;
         A++; // think why this works
+        // A is treated as local pointer variable and not a array variable
     }
     cout<<"\n";
 }
