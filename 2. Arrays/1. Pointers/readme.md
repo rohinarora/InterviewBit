@@ -26,3 +26,9 @@
   * 10.cpp. some property of char array
   * 10.jpg. Notice the variable c in 2 different functions. It has different sizes
   * 11.md Pointers and 2-D arrays, multidim arrays
+  * 11.jpg. Passing multi dim arrays to functions
+  * 12-16.jpg. malloc, calloc, new, free etc.
+    * https://stackoverflow.com/questions/8800482/when-and-why-to-use-malloc
+  * 12.cpp, 12.c, 13.c. malloc, calloc
+  * Pointers as function returns in C/C++. Use heap space to return variables local to a function. stack gets deleted
+  * 17.c .  Function pointer
