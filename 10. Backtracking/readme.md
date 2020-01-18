@@ -22,11 +22,7 @@ https://www.codeproject.com/Articles/21194/Iterative-vs-Recursive-Approaches
   * Solving a SuDoKu puzzle using recursion
   * Given a 2D array (MAZE) - Print path to go from one end to another.  
   * Given a matrix of alphabets -  Find a given word.
-
-
-permute and subset problem- both have depth of tree N. We have N decisions to make. Depth of tree represents decisions to be made. Branching at each node tells choices at each step. Always 2 for subset subset problem. len(rest) in permute problem (goes from N at root to 1 at bottom)
-
-
-https://www.geeksforgeeks.org/print-palindromic-permutations-given-string-alphabetic-order/
+* permute and subset problem- both have depth of tree N. We have N decisions to make. Depth of tree represents decisions to be made. Branching at each node tells choices at each step. Always 2 for subset subset problem. len(rest) in permute problem (goes from N at root to 1 at bottom)
+* https://www.geeksforgeeks.org/print-palindromic-permutations-given-string-alphabetic-order/
 * General approach- https://leetcode.com/problems/palindrome-partitioning/discuss/182307/Java%3A-Backtracking-Template-General-Approach
 * In the end- https://en.wikipedia.org/wiki/Backtracking
