@@ -19,4 +19,10 @@ Each char is 1 byte.
 
 char c2[4]="john" - compilation error. Minimum char array size required is 5.
 
-- Arrays and pointers are similar types used in different manners. 
+- Arrays and pointers are similar types used in different manners.
+
+* String search
+  * Given pattern of size m and text of size n; using naive brute force-
+    * The number of comparisons in the worst case is O(m*(n-m+1)).
+  * The time complexity of KMP algorithm is O(n) in the worst case
+    * Same as just reading the text. Blazingly fast
