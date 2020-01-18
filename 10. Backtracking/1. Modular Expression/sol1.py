@@ -8,9 +8,10 @@ class Solution:
             return 1
         elif B%2==0:
             y=self.Mod(A, B/2, C)
-            return (y*y)%C
+            ans= (y*y)%C
         else:
-            first=self.Mod(A, B-1, C)
-            return ((A%C)*first)%C
+            compute_rest=self.Mod(A, B-1, C)
+            ans= ((A%C)*compute_rest)%C
+        return ans
 sol_obj=Solution()
 print (sol_obj.Mod(2,5,3))
